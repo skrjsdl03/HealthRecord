@@ -1,4 +1,4 @@
-package com.example.healthrecord.domain;
+package com.example.healthrecord.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
